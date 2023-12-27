@@ -1,6 +1,16 @@
-# React + TypeScript + Vite
+# Criador de listas de tarefa, com React e TypeScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site estático, puramente Front-end que permite a criação de tarefas especificando seu título e nível de dificuldade. 
+
+Feito com auxílio do curso de React na Udemy: LINK
+
+Com o propósito de aprimorar conhecimentos acerca de TypeScript integrado a um Framework utilizado no mercado, como o React. 
+
+
+
+This template provides a minimal setup to get React w
+
+orking in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
